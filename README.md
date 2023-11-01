@@ -26,7 +26,7 @@ cd ExchangeRateAPI
 
 匯率設定值 :
 
-```json
+```
 currencies: {
     TWD: {
       TWD: 1,
